@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="student_docs" path="student_docs/" />
+    <files-path name="generated_pdfs" path="generated_pdfs/" />
+    <cache-path name="shared_exports" path="shared_exports/" />
+    <cache-path name="camera_captures" path="camera_captures/" />
+</paths>

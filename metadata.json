@@ -1,0 +1,6 @@
+{
+  "name": "NEET 2027 Form Manager",
+  "description": "Offline student NEET 2027 form collection, PDF generation, A4 printing, backup/restore, and CSV export manager for Mobile Solution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
